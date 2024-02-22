@@ -1,0 +1,17 @@
+{
+  "name": "namisha-binary-search-package",
+  "version": "1.0.0",
+  "description": "Binary Search Package",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Binary",
+    "Search",
+    "Testing"
+  ],
+  "author": "Namisha Gurunani",
+  "license": "ISC"
+}
